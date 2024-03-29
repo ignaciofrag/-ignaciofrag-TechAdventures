@@ -17,4 +17,4 @@ Los ejercicios incluidos en este repositorio abordan temas como:
 • Conversión de datos a formato CSV<br>
 
 <h1>Contribuir</h1>
-Si estás interesado en contribuir a este repositorio, ya sea añadiendo nuevos ejercicios, mejorando los existentes, o proporcionando soluciones alternativas, tu aporte es bienvenido. Por favor, consulta la sección de contribuciones para más detalles sobre cómo puedes participar.
+Si estás interesado en contribuir a este repositorio, ya sea añadiendo nuevos ejercicios, mejorando los existentes, o proporcionando soluciones alternativas, tu aporte es bienvenido. 
