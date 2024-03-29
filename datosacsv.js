@@ -15,8 +15,8 @@ function jsonACSV(jsonDatos) {
   }
   
   const datos = [
-    { nombre: "Ana", edad: 30 },
-    { nombre: "Luis", edad: 25 }
+    { nombre: "Ignacio", edad: 31 },
+    { nombre: "Thais", edad: 27 }
   ];
   
   console.log(jsonACSV(datos));
