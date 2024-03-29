@@ -10,11 +10,13 @@ Este repositorio contiene una colección de ejercicios resueltos en JavaScript, 
 <h1>Ejercicios Incluidos</h1>
 Los ejercicios incluidos en este repositorio abordan temas como:
 
+• Calculo costes básico<br>
 • Verificación de palíndromos<br>
 • Operaciones matemáticas básicas sin usar operadores tradicionales<br>
 • Búsqueda del número mayor y menor en un array<br>
 • Simulación de operaciones CRUD básicas en una API con autenticación<br>
 • Conversión de datos a formato CSV<br>
+
 
 <h1>Contribuir</h1>
 Si estás interesado en contribuir a este repositorio, ya sea añadiendo nuevos ejercicios, mejorando los existentes, o proporcionando soluciones alternativas, tu aporte es bienvenido. 
